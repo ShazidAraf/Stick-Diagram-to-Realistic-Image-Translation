@@ -1,7 +1,7 @@
 # Stick-Diagram-to-Realistic-Image-Translation
 
 ## Dataset
-I recorded the video on my own. If you have fewer data make sure in your video background is as simple as possible, no camera movement during recording, uniform intensity .
+I recorded the video on my own. If you have data make sure in your video background is as simple as possible, no camera movement during recording, uniform intensity .
 
 you can also use this video. This is an ideal one
 
