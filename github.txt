@@ -10,7 +10,7 @@ git add .
 git commit -m "upload"
 
 
-git remote add origin https://github.com/ShazidAraf/Generating-Realistic-Dance-with-Specific-Style.git
+git remote add origin https://github.com/ShazidAraf/Stick-Diagram-to-Realistic-Image-Translation.git
 
 git push -u origin master
 
