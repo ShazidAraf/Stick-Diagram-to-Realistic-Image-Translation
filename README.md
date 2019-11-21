@@ -45,7 +45,7 @@ pip install tqdm
 
 step-1: keep video of a person making free movements in 'data/target/video' folder
 
-step-2: Extract Image from video. run '1.pre_processing.py'. It extracts images from video. You can control rate of extraction using frame_interval. Cropping and rotating function are also written. Output of thix stage is 512 x 512 pixels images
+step-2: Extract Image from video. run '1.pre_processing.py'. It extracts images from video. You can control rate of extraction using frame_interval. Cropping and rotating function are also written. Output of this stage is 512 x 512 pixels images
 
 step-3: Pose Estimation. I used OpenPose for pose estimation. run '2.image_to_stick_figure.py' to get stick diagram of folder 'data/target/images'. Stick figures are saved in 'data/train/train_label' folder.
 
