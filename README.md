@@ -12,6 +12,7 @@ https://www.youtube.com/watch?v=kyKNPPQW3bM&t=342s
 ## Environments:
 
 [Ubuntu](https://ubuntu.com/download/desktop) 16/18. (I used 18.04)
+
 python 3.6.4 
 
 opencv: 3.4 
