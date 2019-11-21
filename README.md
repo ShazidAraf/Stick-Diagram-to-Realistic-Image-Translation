@@ -23,7 +23,7 @@ Pytorch 0.4.1
 
 Torchvision 0.2.1 
 ```bash
-conda install pytorch=0.4.1 cuda90 -c pytorch
+conda install pytorch=0.4.1 torchvision cuda90 -c pytorch
 ``` 
 (this command will install both pytorch and torchvision)
 
