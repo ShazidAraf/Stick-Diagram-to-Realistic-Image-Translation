@@ -1,4 +1,4 @@
-# Beat-Based-Dance-from-Music
+# Stick-Diagram-to-Realistic-Image-Translation
 
 ## Dataset
 I recorded the video on my own. If you have fewer data make sure in your video background is as simple as possible, no camera movement during recording, uniform intensity .
