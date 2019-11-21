@@ -5,7 +5,7 @@ I recorded the video on my own. If you have few data make sure - video backgroun
 
 you can also use this video. This is an ideal one
 
-https://www.youtube.com/watch?v=kyKNPPQW3bM&t=342s
+[Afrobeats Dance Workout - 20 Minutes Fat Burning Workout](https://www.youtube.com/watch?v=kyKNPPQW3bM&t=342s)
 
 
 
