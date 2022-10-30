@@ -60,4 +60,5 @@ step-7: run '5.images_to_video.py' to create video of result images.
 
 # Reference
 [Pix2pixHD](https://github.com/NVIDIA/pix2pixHD)
-[Everybody Dance Now] (https://github.com/yanx27/EverybodyDanceNow_reproduce_pytorch)
+
+[Everybody Dance Now](https://github.com/yanx27/EverybodyDanceNow_reproduce_pytorch)
